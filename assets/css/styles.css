@@ -1,0 +1,23 @@
+html, body {
+    margin: 0px;
+    background-color: #2F4F30;
+}
+
+.tittle-game {
+    text-align: center;
+    background-color: lightblue;
+    padding: 1rem;
+    font-size: 1,5rem;
+}
+
+.cards {
+    position: relative;
+    width: 8rem;
+    left: 5rem;
+    margin-left: -3rem;
+    
+}
+
+#player2-cards, #player-cards {
+    height: 13rem;
+}
